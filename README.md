@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="images/Dr.Niknami.png" alt="Dr. Niknami — Entrepreneur, Educator & Business Leader" width="100%" />
+
+
 # Dr. Niknami
 ### Entrepreneur | Business Leader | Education & Digital Innovation Advocate
 
