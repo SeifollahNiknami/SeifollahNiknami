@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./images/Dr.Niknami.png"
+  <img src="./Dr.Niknami.png"
        alt="Dr. Niknami - Entrepreneur and Business Leader"
        width="100%" />
 </div>
