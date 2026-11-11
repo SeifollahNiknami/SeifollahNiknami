@@ -12,7 +12,7 @@
 
 Welcome to my GitHub profile!
 
-I am **Dr. Niknami**, an entrepreneur and business leader working across **education, digital technology, business development, media, and international collaboration**. My activities span the development of organizations and initiatives that connect people, ideas, knowledge, and commercial opportunities.
+I am **Seifollah Niknami**, an entrepreneur and business leader working across **education, digital technology, business development, media, and international collaboration**. My activities span the development of organizations and initiatives that connect people, ideas, knowledge, and commercial opportunities.
 
 My professional interests include building sustainable organizations, supporting digital transformation, expanding access to learning, strengthening international business relationships, and helping emerging ideas develop into practical ventures.
 
