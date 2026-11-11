@@ -1,16 +1,10 @@
+
 <div align="center">
-
-<img src="images/Dr.Niknami.png" alt="Dr. Niknami — Entrepreneur, Educator & Business Leader" width="100%" />
-
-
-# Dr. Niknami
-### Entrepreneur | Business Leader | Education & Digital Innovation Advocate
-
-**Founder • Chairman of the Board • International Collaboration • Business Development**
-
-📍 Qeytariyeh, Tehran, Iran
-
+  <img src="./images/Dr.Niknami.png"
+       alt="Dr. Niknami - Entrepreneur and Business Leader"
+       width="100%" />
 </div>
+
 
 ---
 
